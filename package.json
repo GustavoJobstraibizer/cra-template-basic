@@ -1,0 +1,27 @@
+{
+  "name": "@gustavojobs/cra-template-basic",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The basic template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GustavoJobstraibizer/react-template-basic"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/GustavoJobstraibizer/react-template-basic/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
