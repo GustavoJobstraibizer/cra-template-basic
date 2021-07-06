@@ -1,6 +1,8 @@
 {
   "name": "@gustavojobs/cra-template-basic",
   "version": "1.0.0",
+  "author": "Gustavo jobstraibizer",
+  "private": false,
   "keywords": [
     "react",
     "create-react-app",
